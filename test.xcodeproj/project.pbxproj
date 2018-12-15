@@ -1,0 +1,402 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		97699DA021C3BAD300C674ED /* android.widget.TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97699D9621C3BAD300C674ED /* android.widget.TextView.swift */; };
+		97699DA121C3BAD300C674ED /* android.content.Context.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97699D9721C3BAD300C674ED /* android.content.Context.swift */; };
+		97699DA221C3BAD300C674ED /* org.tloss.tiengvietlop1.MainActiviy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97699D9821C3BAD300C674ED /* org.tloss.tiengvietlop1.MainActiviy.swift */; };
+		97699DA321C3BAD300C674ED /* android.view.ViewGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97699D9921C3BAD300C674ED /* android.view.ViewGroup.swift */; };
+		97699DA421C3BAD300C674ED /* android.widget.LinearLayout.LayoutParams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97699D9A21C3BAD300C674ED /* android.widget.LinearLayout.LayoutParams.swift */; };
+		97699DA521C3BAD300C674ED /* android.widget.LinearLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97699D9B21C3BAD300C674ED /* android.widget.LinearLayout.swift */; };
+		97699DA621C3BAD300C674ED /* android.app.Activity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97699D9C21C3BAD300C674ED /* android.app.Activity.swift */; };
+		97699DA721C3BAD300C674ED /* android.view.View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97699D9D21C3BAD300C674ED /* android.view.View.swift */; };
+		97699DA821C3BAD300C674ED /* android.view.ViewGroup.LayoutParams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97699D9E21C3BAD300C674ED /* android.view.ViewGroup.LayoutParams.swift */; };
+		97699DA921C3BAD300C674ED /* android.os.Bundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97699D9F21C3BAD300C674ED /* android.os.Bundle.swift */; };
+		9787063D21C4B3650049E6D7 /* TGLayoutPos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9787063021C4B3650049E6D7 /* TGLayoutPos.swift */; };
+		9787063E21C4B3650049E6D7 /* TGLinearLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9787063121C4B3650049E6D7 /* TGLinearLayout.swift */; };
+		9787063F21C4B3650049E6D7 /* TGFrameLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9787063221C4B3650049E6D7 /* TGFrameLayout.swift */; };
+		9787064021C4B3650049E6D7 /* TGPathLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9787063321C4B3650049E6D7 /* TGPathLayout.swift */; };
+		9787064121C4B3650049E6D7 /* TGFloatLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9787063421C4B3650049E6D7 /* TGFloatLayout.swift */; };
+		9787064221C4B3650049E6D7 /* TGRelativeLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9787063521C4B3650049E6D7 /* TGRelativeLayout.swift */; };
+		9787064321C4B3650049E6D7 /* TGLayoutSizeClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9787063621C4B3650049E6D7 /* TGLayoutSizeClass.swift */; };
+		9787064421C4B3650049E6D7 /* TGLayoutSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9787063721C4B3650049E6D7 /* TGLayoutSize.swift */; };
+		9787064521C4B3650049E6D7 /* TGTableLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9787063821C4B3650049E6D7 /* TGTableLayout.swift */; };
+		9787064621C4B3650049E6D7 /* TGFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9787063921C4B3650049E6D7 /* TGFlowLayout.swift */; };
+		9787064721C4B3650049E6D7 /* TangramKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9787063A21C4B3650049E6D7 /* TangramKit.swift */; };
+		9787064821C4B3650049E6D7 /* TGBaseLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9787063B21C4B3650049E6D7 /* TGBaseLayout.swift */; };
+		9787064921C4B3650049E6D7 /* TGDimeAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9787063C21C4B3650049E6D7 /* TGDimeAdapter.swift */; };
+		97B4B7B421C3A0C60096581E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97B4B7B321C3A0C60096581E /* AppDelegate.swift */; };
+		97B4B7B621C3A0C60096581E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97B4B7B521C3A0C60096581E /* ViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		97699D9621C3BAD300C674ED /* android.widget.TextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = android.widget.TextView.swift; sourceTree = "<group>"; };
+		97699D9721C3BAD300C674ED /* android.content.Context.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = android.content.Context.swift; sourceTree = "<group>"; };
+		97699D9821C3BAD300C674ED /* org.tloss.tiengvietlop1.MainActiviy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = org.tloss.tiengvietlop1.MainActiviy.swift; sourceTree = "<group>"; };
+		97699D9921C3BAD300C674ED /* android.view.ViewGroup.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = android.view.ViewGroup.swift; sourceTree = "<group>"; };
+		97699D9A21C3BAD300C674ED /* android.widget.LinearLayout.LayoutParams.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = android.widget.LinearLayout.LayoutParams.swift; sourceTree = "<group>"; };
+		97699D9B21C3BAD300C674ED /* android.widget.LinearLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = android.widget.LinearLayout.swift; sourceTree = "<group>"; };
+		97699D9C21C3BAD300C674ED /* android.app.Activity.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = android.app.Activity.swift; sourceTree = "<group>"; };
+		97699D9D21C3BAD300C674ED /* android.view.View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = android.view.View.swift; sourceTree = "<group>"; };
+		97699D9E21C3BAD300C674ED /* android.view.ViewGroup.LayoutParams.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = android.view.ViewGroup.LayoutParams.swift; sourceTree = "<group>"; };
+		97699D9F21C3BAD300C674ED /* android.os.Bundle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = android.os.Bundle.swift; sourceTree = "<group>"; };
+		9787063021C4B3650049E6D7 /* TGLayoutPos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TGLayoutPos.swift; path = TangramKit/TGLayoutPos.swift; sourceTree = "<group>"; };
+		9787063121C4B3650049E6D7 /* TGLinearLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TGLinearLayout.swift; path = TangramKit/TGLinearLayout.swift; sourceTree = "<group>"; };
+		9787063221C4B3650049E6D7 /* TGFrameLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TGFrameLayout.swift; path = TangramKit/TGFrameLayout.swift; sourceTree = "<group>"; };
+		9787063321C4B3650049E6D7 /* TGPathLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TGPathLayout.swift; path = TangramKit/TGPathLayout.swift; sourceTree = "<group>"; };
+		9787063421C4B3650049E6D7 /* TGFloatLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TGFloatLayout.swift; path = TangramKit/TGFloatLayout.swift; sourceTree = "<group>"; };
+		9787063521C4B3650049E6D7 /* TGRelativeLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TGRelativeLayout.swift; path = TangramKit/TGRelativeLayout.swift; sourceTree = "<group>"; };
+		9787063621C4B3650049E6D7 /* TGLayoutSizeClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TGLayoutSizeClass.swift; path = TangramKit/TGLayoutSizeClass.swift; sourceTree = "<group>"; };
+		9787063721C4B3650049E6D7 /* TGLayoutSize.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TGLayoutSize.swift; path = TangramKit/TGLayoutSize.swift; sourceTree = "<group>"; };
+		9787063821C4B3650049E6D7 /* TGTableLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TGTableLayout.swift; path = TangramKit/TGTableLayout.swift; sourceTree = "<group>"; };
+		9787063921C4B3650049E6D7 /* TGFlowLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TGFlowLayout.swift; path = TangramKit/TGFlowLayout.swift; sourceTree = "<group>"; };
+		9787063A21C4B3650049E6D7 /* TangramKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TangramKit.swift; path = TangramKit/TangramKit.swift; sourceTree = "<group>"; };
+		9787063B21C4B3650049E6D7 /* TGBaseLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TGBaseLayout.swift; path = TangramKit/TGBaseLayout.swift; sourceTree = "<group>"; };
+		9787063C21C4B3650049E6D7 /* TGDimeAdapter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TGDimeAdapter.swift; path = TangramKit/TGDimeAdapter.swift; sourceTree = "<group>"; };
+		97B4B7B021C3A0C60096581E /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		97B4B7B321C3A0C60096581E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		97B4B7B521C3A0C60096581E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		97B4B7BF21C3A0C60096581E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		97B4B7AD21C3A0C60096581E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9787062F21C4B34D0049E6D7 /* TangramKit */ = {
+			isa = PBXGroup;
+			children = (
+				9787063A21C4B3650049E6D7 /* TangramKit.swift */,
+				9787063B21C4B3650049E6D7 /* TGBaseLayout.swift */,
+				9787063C21C4B3650049E6D7 /* TGDimeAdapter.swift */,
+				9787063421C4B3650049E6D7 /* TGFloatLayout.swift */,
+				9787063921C4B3650049E6D7 /* TGFlowLayout.swift */,
+				9787063221C4B3650049E6D7 /* TGFrameLayout.swift */,
+				9787063021C4B3650049E6D7 /* TGLayoutPos.swift */,
+				9787063721C4B3650049E6D7 /* TGLayoutSize.swift */,
+				9787063621C4B3650049E6D7 /* TGLayoutSizeClass.swift */,
+				9787063121C4B3650049E6D7 /* TGLinearLayout.swift */,
+				9787063321C4B3650049E6D7 /* TGPathLayout.swift */,
+				9787063521C4B3650049E6D7 /* TGRelativeLayout.swift */,
+				9787063821C4B3650049E6D7 /* TGTableLayout.swift */,
+			);
+			name = TangramKit;
+			sourceTree = "<group>";
+		};
+		9787064A21C4B3ED0049E6D7 /* android */ = {
+			isa = PBXGroup;
+			children = (
+				97699D9C21C3BAD300C674ED /* android.app.Activity.swift */,
+				97699D9721C3BAD300C674ED /* android.content.Context.swift */,
+				97699D9D21C3BAD300C674ED /* android.view.View.swift */,
+				97699D9F21C3BAD300C674ED /* android.os.Bundle.swift */,
+				97699D9E21C3BAD300C674ED /* android.view.ViewGroup.LayoutParams.swift */,
+				97699D9921C3BAD300C674ED /* android.view.ViewGroup.swift */,
+				97699D9A21C3BAD300C674ED /* android.widget.LinearLayout.LayoutParams.swift */,
+				97699D9B21C3BAD300C674ED /* android.widget.LinearLayout.swift */,
+				97699D9621C3BAD300C674ED /* android.widget.TextView.swift */,
+			);
+			path = android;
+			sourceTree = "<group>";
+		};
+		97B4B7A721C3A0C60096581E = {
+			isa = PBXGroup;
+			children = (
+				9787064A21C4B3ED0049E6D7 /* android */,
+				9787062F21C4B34D0049E6D7 /* TangramKit */,
+				97B4B7B221C3A0C60096581E /* test */,
+				97B4B7B121C3A0C60096581E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		97B4B7B121C3A0C60096581E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				97B4B7B021C3A0C60096581E /* test.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		97B4B7B221C3A0C60096581E /* test */ = {
+			isa = PBXGroup;
+			children = (
+				97699D9821C3BAD300C674ED /* org.tloss.tiengvietlop1.MainActiviy.swift */,
+				97B4B7B321C3A0C60096581E /* AppDelegate.swift */,
+				97B4B7B521C3A0C60096581E /* ViewController.swift */,
+				97B4B7BF21C3A0C60096581E /* Info.plist */,
+			);
+			path = test;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		97B4B7AF21C3A0C60096581E /* test */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 97B4B7C221C3A0C60096581E /* Build configuration list for PBXNativeTarget "test" */;
+			buildPhases = (
+				97B4B7AC21C3A0C60096581E /* Sources */,
+				97B4B7AD21C3A0C60096581E /* Frameworks */,
+				97B4B7AE21C3A0C60096581E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = test;
+			productName = test;
+			productReference = 97B4B7B021C3A0C60096581E /* test.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		97B4B7A821C3A0C60096581E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0920;
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = tloss;
+				TargetAttributes = {
+					97B4B7AF21C3A0C60096581E = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 97B4B7AB21C3A0C60096581E /* Build configuration list for PBXProject "test" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 97B4B7A721C3A0C60096581E;
+			productRefGroup = 97B4B7B121C3A0C60096581E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				97B4B7AF21C3A0C60096581E /* test */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		97B4B7AE21C3A0C60096581E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		97B4B7AC21C3A0C60096581E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9787064621C4B3650049E6D7 /* TGFlowLayout.swift in Sources */,
+				97699DA421C3BAD300C674ED /* android.widget.LinearLayout.LayoutParams.swift in Sources */,
+				9787063E21C4B3650049E6D7 /* TGLinearLayout.swift in Sources */,
+				9787064121C4B3650049E6D7 /* TGFloatLayout.swift in Sources */,
+				97699DA221C3BAD300C674ED /* org.tloss.tiengvietlop1.MainActiviy.swift in Sources */,
+				9787064021C4B3650049E6D7 /* TGPathLayout.swift in Sources */,
+				97699DA521C3BAD300C674ED /* android.widget.LinearLayout.swift in Sources */,
+				97699DA021C3BAD300C674ED /* android.widget.TextView.swift in Sources */,
+				97699DA121C3BAD300C674ED /* android.content.Context.swift in Sources */,
+				9787064821C4B3650049E6D7 /* TGBaseLayout.swift in Sources */,
+				9787064221C4B3650049E6D7 /* TGRelativeLayout.swift in Sources */,
+				9787064721C4B3650049E6D7 /* TangramKit.swift in Sources */,
+				9787064421C4B3650049E6D7 /* TGLayoutSize.swift in Sources */,
+				97699DA321C3BAD300C674ED /* android.view.ViewGroup.swift in Sources */,
+				9787063D21C4B3650049E6D7 /* TGLayoutPos.swift in Sources */,
+				9787064321C4B3650049E6D7 /* TGLayoutSizeClass.swift in Sources */,
+				97B4B7B621C3A0C60096581E /* ViewController.swift in Sources */,
+				9787063F21C4B3650049E6D7 /* TGFrameLayout.swift in Sources */,
+				9787064921C4B3650049E6D7 /* TGDimeAdapter.swift in Sources */,
+				9787064521C4B3650049E6D7 /* TGTableLayout.swift in Sources */,
+				97699DA721C3BAD300C674ED /* android.view.View.swift in Sources */,
+				97B4B7B421C3A0C60096581E /* AppDelegate.swift in Sources */,
+				97699DA821C3BAD300C674ED /* android.view.ViewGroup.LayoutParams.swift in Sources */,
+				97699DA621C3BAD300C674ED /* android.app.Activity.swift in Sources */,
+				97699DA921C3BAD300C674ED /* android.os.Bundle.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		97B4B7C021C3A0C60096581E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		97B4B7C121C3A0C60096581E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		97B4B7C321C3A0C60096581E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = test/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = org.tloss.android.test;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		97B4B7C421C3A0C60096581E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = test/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = org.tloss.android.test;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		97B4B7AB21C3A0C60096581E /* Build configuration list for PBXProject "test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97B4B7C021C3A0C60096581E /* Debug */,
+				97B4B7C121C3A0C60096581E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		97B4B7C221C3A0C60096581E /* Build configuration list for PBXNativeTarget "test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97B4B7C321C3A0C60096581E /* Debug */,
+				97B4B7C421C3A0C60096581E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 97B4B7A821C3A0C60096581E /* Project object */;
+}
